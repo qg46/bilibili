@@ -9,8 +9,8 @@
 | ---------------- | ----------------- |
 | [静态界面](https://qg46.github.io/bilibili/waterjudge/2/bevid-1) | [静态界面](https://qg46.github.io/bilibili/waterjudge/2/bevid-2) |
 | [PDF](https://qg46.github.io/bilibili/waterjudge/2/bevid-4) | [PDF](https://qg46.github.io/bilibili/waterjudge/2/bevid-5) |
-| [png](https://qg46.github.io/bilibili/waterjudge/2/QU4TE9]Z3P4Z15Y}`$AELEL.png) | [png](https://qg46.github.io/bilibili/waterjudge/2/ES_(}QWQ[L29MFLBE{9$J7F.png) |
+| [png](https://qg46.github.io/bilibili/waterjudge/2/QU4TE9]Z3P4Z15Y}`$AELEL.png) | [png](https://qg46.github.io/bilibili/waterjudge/2/ES_&#40;}QWQ[L29MFLBE{9$J7F.png) |
 
 
-[动态完整原图](https://qg46.github.io/bilibili/waterjudge/2/bevid-3)
+[动态完整原图](https://qg46.github.io/bilibili/waterjudge/2/bevid-3)<br>
 [个人主页](https://space.bilibili.com/381474147)
