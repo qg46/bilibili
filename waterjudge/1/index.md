@@ -1,12 +1,3 @@
-<head>
-<style>
-  white {
-  text-decoration: none;
-  color: #000;
-  }
-  </style>
-</head>
-
 # 濑遇小闪电
 <font face="黑体" color=black size=5>在观点中冒充他人</font>
 <font face="黑体" color="#f25d8e" size=5></font><br>
