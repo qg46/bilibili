@@ -1,9 +1,11 @@
+<head>
 <style>
   white {
   text-decoration: none;
   color: #000;
   }
   </style>
+</head>
 
 <h1><font color=black><a href="https://space.bilibili.com/674687892" class="white">濑遇小闪电</a></font></h1><br>
 <font face="黑体" color=black size=5>在观点中冒充他人</font>
