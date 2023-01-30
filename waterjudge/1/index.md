@@ -1,6 +1,6 @@
 # 濑遇小闪电
-<font face="黑体" color=green size=5>在观点中恶意冒充他人</font>
-<font face="黑体" color=green size=5>永久撤销</font><br>
+<font face="黑体" color=black size=5>在观点中恶意冒充他人</font>
+<font face="黑体" color="#f25d8e" size=5>永久撤销</font><br>
 此人多次冒充其他风纪委员并使用冒用的身份发布违规观点，已经对他人造成了严重影响。<br>
 后来谎称自己被撤职后又继续冒充他人发布违规观点……<br>
 
