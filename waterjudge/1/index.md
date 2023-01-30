@@ -1,7 +1,7 @@
 <style>
   white {
   text-decoration: none;
-  color: black;
+  color: #000;
   }
   </style>
 
