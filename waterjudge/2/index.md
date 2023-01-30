@@ -13,12 +13,14 @@
  
 > ## P1:恶龙苏醒
 > 
+
 ![](https://qg46.github.io/bilibili/waterjudge/2/c081f9b0f3f1f98a91a0d67480a316db389127176.jpg "你知道的太多了")
 
 > ## P2:恶龙被封印
 > 
+
 ![](https://qg46.github.io/bilibili/waterjudge/2/8174781babd1aa8c074dd26e6ab18421389127176.jpg "你知道的太多了")
 
-#      
+# <br>
 [动态内图片打包](https://qg46.github.io/bilibili/waterjudge/2/bevid-3)<br>
 [个人主页](https://space.bilibili.com/381474147)
