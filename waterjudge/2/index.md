@@ -10,7 +10,8 @@
 | [静态界面](https://qg46.github.io/bilibili/waterjudge/2/bevid-1) | [静态界面](https://qg46.github.io/bilibili/waterjudge/2/bevid-2) |
 | [PDF](https://qg46.github.io/bilibili/waterjudge/2/bevid-4) | [PDF](https://qg46.github.io/bilibili/waterjudge/2/bevid-5) |
 | [png](https://qg46.github.io/bilibili/waterjudge/2/QU4TE9]Z3P4Z15Y}`$AELEL.png) | [png](https://qg46.github.io/bilibili/waterjudge/2/ES_&#40;}QWQ[L29MFLBE{9$J7F.png) |
-
+ 
+![这是图片](https://qg46.github.io/bilibili/waterjudge/2/c081f9b0f3f1f98a91a0d67480a316db389127176.jpg "Magic Gardens")
 
 [动态内图片打包](https://qg46.github.io/bilibili/waterjudge/2/bevid-3)<br>
 [个人主页](https://space.bilibili.com/381474147)
