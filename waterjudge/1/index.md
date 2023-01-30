@@ -9,7 +9,7 @@
 | 动态中再次自爆身份 | 冒充我还把名字打错了 |
 | ---------------- | ---------------- |
 | [静态界面](https://qg46.github.io/bilibili/waterjudge/1/bevid-1.mhtml) | [静态界面](https://qg46.github.io/bilibili/waterjudge/1/bevid-1.mhtml) |
-| [PDF]() | [PDF]() |
+| [PDF](https://qg46.github.io/bilibili/waterjudge/1/bevid-3.pdf) | [PDF](https://qg46.github.io/bilibili/waterjudge/1/bevid-4.pdf) |
 
 
 [动态中再次自爆身份(静态界面)](https://qg46.github.io/bilibili/waterjudge/1/bevid-1.mhtml)<br>
