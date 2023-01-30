@@ -5,9 +5,9 @@
 后来谎称自己被撤职后又继续冒充他人发布违规观点……<br>
 
 # 证据
-| 动态中再次自爆身份 | 冒充我还把名字打错了 |
-| ---------------- | ------------------ |
-| [静态界面](https://qg46.github.io/bilibili/waterjudge/1/bevid-1.mhtml) | [静态界面](https://qg46.github.io/bilibili/waterjudge/1/bevid-1.mhtml) |
+| 动态中再次自爆身份 | 冒充我还把名字打错了 |<br>
+| ---------------- | ------------------ |<br>
+| [静态界面](https://qg46.github.io/bilibili/waterjudge/1/bevid-1.mhtml) | [静态界面](https://qg46.github.io/bilibili/waterjudge/1/bevid-1.mhtml) |<br>
 
 
 
