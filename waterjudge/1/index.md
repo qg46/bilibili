@@ -5,7 +5,7 @@
   }
   </style>
 
-<h1><a href="https://space.bilibili.com/674687892" class="white">濑遇小闪电</a></h1><br>
+<h1><font color=black><a href="https://space.bilibili.com/674687892" class="white">濑遇小闪电</a></font></h1><br>
 <font face="黑体" color=black size=5>在观点中冒充他人</font>
 <font face="黑体" color="#f25d8e" size=5>已被撤销</font><br>
 此人多次冒充其他风纪委员并使用冒用的身份发布违规观点，已经对他人造成了严重影响。<br>
