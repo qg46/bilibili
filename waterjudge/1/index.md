@@ -26,3 +26,21 @@
 [动态内图片打包](https://qg46.github.io/bilibili/waterjudge/1/bevid-1-5.zip)<br>
 [补充证据](https://qg46.github.io/bilibili/waterjudge/1/bevid-1-6.zip)<br>
 [个人主页](https://space.bilibili.com/674687892)
+
+ <div id="gitalk-container"></div> 
+<link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
+<script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+<script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+<script>
+    const gitalk = new Gitalk({
+        clientID: '16ed2ca2659f27d17c35',
+        clientSecret: 'c6f6ae62a12d380ff1945f44527295d2505503d3',
+        repo: 'SaveUserComment',
+        owner: 'qg46',
+        admin: ['qg46'],
+        distractionFreeMode: true,
+        id: location.pathname,
+        proxy: 'https://114514-qg46.vercel.app/github/login/oauth/access_token'
+    })
+    gitalk.render('gitalk-container');
+</script>
