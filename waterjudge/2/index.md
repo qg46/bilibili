@@ -7,8 +7,8 @@
  
 | 主页存档(带评论区) | 主页存档(无评论区) |
 | ---------------- | ----------------- |
-| [静态界面](https://qg46.github.io/bilibili/waterjudge/2/bevid-1.mhtml) | [静态界面](https://qg46.github.io/bilibili/waterjudge/2/bevid-2.mhtml) |
-| [PDF](https://qg46.github.io/bilibili/waterjudge/2/bevid-4.pdf) | [PDF](https://qg46.github.io/bilibili/waterjudge/2/bevid-5.pdf) |
+| [静态界面](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-1.mhtml) | [静态界面](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-2.mhtml) |
+| [PDF](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-4.pdf) | [PDF](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-5.pdf) |
 | [png](https://qg46.github.io/bilibili/waterjudge/2/QU4TE9]Z3P4Z15Y}`$AELEL.png) | [png](https://qg46.github.io/bilibili/waterjudge/2/ES_&#40;}QWQ[L29MFLBE{9$J7F.png) |
  
 > ## P1:恶龙苏醒
@@ -22,5 +22,5 @@
 ![](https://qg46.github.io/bilibili/waterjudge/2/8174781babd1aa8c074dd26e6ab18421389127176.jpg "你知道的太多了")
 
 #### <br>
-[动态内图片打包](https://qg46.github.io/bilibili/waterjudge/2/bevid-3)<br>
+[动态内图片打包](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-3.zip)<br>
 [个人主页](https://space.bilibili.com/381474147)
