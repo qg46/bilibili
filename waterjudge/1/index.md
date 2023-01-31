@@ -43,4 +43,17 @@
         proxy: 'https://114514-qg46.vercel.app/github/login/oauth/access_token'
     })
     gitalk.render('gitalk-container');
+ 
+ window.$docsify = {
+	plugins: [
+		function (hook, vm) {
+			hook.doneEach(function () {
+				if (window.title_id !== window.location.hash.match(/#(.*?)([?]|$)/)[1]) {
+					window.reload;
+				}
+				window.title_id = window.location.hash.match(/#(.*?)([?]|$)/)[1];
+			})
+		}
+	]
+}
 </script>
