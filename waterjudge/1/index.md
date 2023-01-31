@@ -38,7 +38,7 @@
         repo: 'SaveUserComment',
         owner: 'qg46',
         admin: ['qg46'],
-        distractionFreeMode: true,
+        distractionFreeMode: false,
         id: location.pathname,
         proxy: 'https://114514-qg46.vercel.app/github/login/oauth/access_token'
     })
