@@ -20,9 +20,9 @@
  
 | 动态中再次自爆身份 | 冒充我还把名字打错了 |
 | ---------------- | ---------------- |
-| [静态界面](https://qg46.github.io/bilibili/waterjudge/1/bevid-1.mhtml) | [静态界面](https://qg46.github.io/bilibili/waterjudge/1/bevid-1.mhtml) |
-| [PDF](https://qg46.github.io/bilibili/waterjudge/1/bevid-3.pdf) | [PDF](https://qg46.github.io/bilibili/waterjudge/1/bevid-4.pdf) |
+| [静态界面](https://qg46.github.io/bilibili/waterjudge/1/bevid-1-1.mhtml) | [静态界面](https://qg46.github.io/bilibili/waterjudge/1/bevid-1-2.mhtml) |
+| [PDF](https://qg46.github.io/bilibili/waterjudge/1/bevid-1-3.pdf) | [PDF](https://qg46.github.io/bilibili/waterjudge/1/bevid-1-4.pdf) |
 
-[动态内图片打包](https://qg46.github.io/bilibili/waterjudge/1/bevid-5.zip)<br>
-[补充证据](https://qg46.github.io/bilibili/waterjudge/1/bevid-6.zip)<br>
+[动态内图片打包](https://qg46.github.io/bilibili/waterjudge/1/bevid-1-5.zip)<br>
+[补充证据](https://qg46.github.io/bilibili/waterjudge/1/bevid-1-6.zip)<br>
 [个人主页](https://space.bilibili.com/674687892)
