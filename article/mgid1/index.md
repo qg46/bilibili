@@ -12,6 +12,9 @@
             top: 15%;
             left: 20%;
         }
+        .centertext{
+            align: center
+        }
         
     img{
         width: 100%;
@@ -33,4 +36,8 @@
 <br>
 <img src="https://qg46.github.io/bilibili/article/mgid1/151c4482280b34e914c51fccfe5b857cff8d61c6.jpg" width="64%" alt="">
 
+
+<div class="centertext">
 <strong>——前     言——</strong>
+    
+    </div>
