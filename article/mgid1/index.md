@@ -26,7 +26,7 @@
   <img src="https://qg46.github.io/bilibili/article/mgid1/80715188684ffe0a179f0d54b6a11c9508a8a77d.jpg" alt="">
 </div>
 <div>
-  <p> 我爱B站B站不爱我<br> 粉丝：31   文章：3</p>
+  <p> &nbsp;我爱B站B站不爱我<br> &nbsp;粉丝：31&nbsp;&nbsp;文章：3</p>
     </div>
 
 
