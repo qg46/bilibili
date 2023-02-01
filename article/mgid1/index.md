@@ -35,6 +35,7 @@
 
 
 <div align="center">
-<strong><font size="5">——前     言——</font></strong>
+<strong><font size="5">——前     言——</font></strong><br>
+    <strong><font size="3" color="red">非官方，不具有权威性，具体请查看《社区规范》及《小黑屋处罚条例》</font></strong><br>
     
     </div>
