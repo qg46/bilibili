@@ -26,11 +26,11 @@
   <img src="https://qg46.github.io/bilibili/article/mgid1/80715188684ffe0a179f0d54b6a11c9508a8a77d.jpg" alt="">
 </div>
 <div>
-&ensp我爱B站B站不爱我<br>
-&ensp这是文本
+<p>&ensp我爱B站B站不爱我<br>
+&ensp这是文本</p>
     </div>
 
 
 <br>
-<img src="https://qg46.github.io/bilibili/article/mgid1/151c4482280b34e914c51fccfe5b857cff8d61c6.jpg" alt="">
+<img src="https://qg46.github.io/bilibili/article/mgid1/151c4482280b34e914c51fccfe5b857cff8d61c6.jpg" width="64%" alt="">
 
