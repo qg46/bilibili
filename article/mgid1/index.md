@@ -32,7 +32,7 @@
 
 <br>
 <div class="card-image banner-image" style="width:660px;height:370px;border-radius:4px;" data-v-b1d802ec="">
-    <div class="card-image__image" data-v-b1d802ec="" style="background-image: url(&quot;https://qg46.github.io/bilibili/article/mgid1/151c4482280b34e914c51fccfe5b857cff8d61c6.jpg@1320w_740h.webp&quot;); border-radius: 4px;">
+    <div class="card-image__image" data-v-b1d802ec="" style="background-image: url("https://qg46.github.io/bilibili/article/mgid1/151c4482280b34e914c51fccfe5b857cff8d61c6.jpg@1320w_740h.webp"); border-radius: 4px;">
     </div>
 </div>
 
