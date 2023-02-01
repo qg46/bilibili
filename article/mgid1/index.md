@@ -33,7 +33,7 @@
 <br>
 <div>
 <div style="width:550px;height:370px;border-radius:4px;">
-    <div style="background-image: url(&quot;https://qg46.github.io/bilibili/article/mgid1/151c4482280b34e914c51fccfe5b857cff8d61c6.jpg%401320w_740h.webp&quot;); border-radius: 4px;height:500px;"></div>
+    <div style="background-image: url(&quot;https://qg46.github.io/bilibili/article/mgid1/151c4482280b34e914c51fccfe5b857cff8d61c6.jpg%401320w_740h.webp&quot;); border-radius: 4px;height:370px;"></div>
 </div>
     </div>
 
