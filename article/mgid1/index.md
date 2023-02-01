@@ -34,7 +34,7 @@
 <img src="https://qg46.github.io/bilibili/article/mgid1/151c4482280b34e914c51fccfe5b857cff8d61c6.jpg" width="64%" alt="">
 
 
-<div style="align: center">
+<div align="center">
 <strong>——前     言——</strong>
     
     </div>
