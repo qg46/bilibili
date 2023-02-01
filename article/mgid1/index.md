@@ -40,5 +40,5 @@
     </div>
   
 ![](https://raw.githubusercontent.com/qg46/bilibili/main/_res/4adb9255ada5b97061e610b682b8636764fe50ed.png)
-> ### 发布的内容涉嫌对个人或群体进行无端嘲讽、发布仇恨言论，以及故意挑拨他人矛盾。
+> #### 发布的内容涉嫌对个人或群体进行无端嘲讽、发布仇恨言论，以及故意挑拨他人矛盾。
 
