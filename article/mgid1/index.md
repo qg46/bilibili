@@ -35,6 +35,6 @@
 
 
 <div align="center">
-<strong font-size="30px">——前     言——</strong>
+<strong><font size="5">——前     言——</font></strong>
     
     </div>
