@@ -42,4 +42,16 @@
 ![](https://raw.githubusercontent.com/qg46/bilibili/main/_res/4adb9255ada5b97061e610b682b8636764fe50ed.png)
 > #### 发布的内容涉嫌对个人或群体进行无端嘲讽、发布仇恨言论，以及故意挑拨他人矛盾。
  
- <span style="font-size:16px;">这是《小黑屋处罚条例》中的</span><strong><span style="color:#E53333;font-size:16px;">原话</span></strong><span style="font-size:16px;">，然而现在很多风纪委员都不了解引战是什么意思，从而误判；我也是即兴创作，就为大家解释一下<span style="color:#00D5FF;">引战的界定</span></span>
+ <span style="font-size:16px;">这是《小黑屋处罚条例》中的</span><strong><span style="color:#E53333;font-size:16px;">原话</span></strong><span style="font-size:16px;">，然而现在很多风纪委员都不了解引战是什么意思，从而误判；我也是即兴创作，就为大家解释一下<span style="color:#00D5FF;">引战的界定</span></span><br>
+ 
+<div align="center">
+<strong><font size="5">——目     录——</font></strong><br>
+    <strong><font size="4" color="red">正  文</font></strong><br>
+    <strong><font size="3">一、基本</font></strong><br>
+    <strong><font size="3">二、起因</font></strong><br>
+    <strong><font size="3">三、常见情况</font></strong><br>
+    <strong><font size="3">四、众议案例</font></strong><br>
+    <strong><font size="5" color="#FF9900">另  加</font></strong><br>
+    <strong><font size="3">五、引战弹幕或评论</font></strong><br>
+    <strong><font size="3">六、结语</font></strong><br>
+    </div>
