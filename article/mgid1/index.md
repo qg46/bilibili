@@ -1,8 +1,8 @@
 <head>
     <style>
         .round_icon{
-            width: 200px;
-            height: 200px;
+            width: 44px;
+            height: 44px;
             border: 3px solid white;
             border-radius: 50%;
             overflow: hidden;
