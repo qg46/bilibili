@@ -7,6 +7,12 @@
             border-radius: 50%;
             overflow: hidden;
         }
+        .p1{
+            position: absolute;
+            top: 20px;
+            left: 20px;
+        }
+        
     img{
         width: 100%;
     }
@@ -19,7 +25,8 @@
 <div class="round_icon">
   <img src="https://qg46.github.io/bilibili/article/mgid1/80715188684ffe0a179f0d54b6a11c9508a8a77d.jpg" alt="">
 </div>
-我爱B站B站不爱我
+
+<p class="p1">我爱B站B站不爱我</p>
 
 ![](https://qg46.github.io/bilibili/article/mgid1/151c4482280b34e914c51fccfe5b857cff8d61c6.jpg)
 
