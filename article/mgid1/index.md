@@ -9,7 +9,7 @@
         }
         .p1{
             position: absolute;
-            top: 120px;
+            top: 240px;
             left: 80px;
         }
         
