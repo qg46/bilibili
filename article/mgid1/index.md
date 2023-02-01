@@ -31,7 +31,7 @@
 
 
 <br>
-<img src="https://qg46.github.io/bilibili/article/mgid1/151c4482280b34e914c51fccfe5b857cff8d61c6.jpg%401320w_740h.webp" width="650px">
+<img src="https://qg46.github.io/bilibili/article/mgid1/151c4482280b34e914c51fccfe5b857cff8d61c6.jpg%401320w_740h.webp" width="540px">
 
 
 <div align="center">
