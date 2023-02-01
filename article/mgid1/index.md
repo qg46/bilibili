@@ -24,9 +24,10 @@
 ###### 2023-02-01 15:00
 <div class="round_icon" style="float: left">
   <img src="https://qg46.github.io/bilibili/article/mgid1/80715188684ffe0a179f0d54b6a11c9508a8a77d.jpg" alt="">
+    <p> 我爱B站B站不爱我<br> 这是文本</p>
 </div>
-<div style="float: right">
-<p left="6%">我爱B站B站不爱我<br>这是文本</p>
+<div>
+
     </div>
 
 
