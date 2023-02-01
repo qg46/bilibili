@@ -9,8 +9,8 @@
         }
         .p1{
             position: absolute;
-            top: 20px;
-            left: 20px;
+            top: 120px;
+            left: 80px;
         }
         
     img{
