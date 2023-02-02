@@ -13,7 +13,9 @@
             left: 20%;
         }
         
-    
+    img{
+        align: center;
+    }
 </style>
 </head>
 
@@ -58,7 +60,6 @@
 
 <div align="center">
 <strong><font size="6" color="red">正  文</font></strong><br>
-    <img src="https://raw.githubusercontent.com/qg46/bilibili/main/_res/db75225feabec8d8b64ee7d3c7165cd639554cbc.png">
 </div>
 
-
+<img src="https://raw.githubusercontent.com/qg46/bilibili/main/_res/db75225feabec8d8b64ee7d3c7165cd639554cbc.png">
