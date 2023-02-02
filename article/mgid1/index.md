@@ -67,7 +67,7 @@
 </div>
 
 
-①关于引战，最常出现在<strong><span style="color:#E56600;font-size:16px;">游戏区</span></strong>、<strong><span style="color:#E53333;font-size:16px;">娱乐区</span></strong>。是<strong><span style="color:#337FE5;font-size:14px;">非常影响观看和评论体验</span></strong>的一种产物。一般引战都有<span style="color:#FFE500;font-size:14px;">攻击倾向</span>，对于某种特定的群体进行AOE伤害。（个人认为恶意引战的“人”不配在B站）<br />
+①关于引战，最常出现在<strong><span style="color:#E56600;font-size:16px;">游戏区</span></strong>、<strong><span style="color:#E53333;font-size:16px;">娱乐区</span></strong>。是<strong><span style="color:#337FE5;font-size:12px;">非常影响观看和评论体验</span></strong>的一种产物。一般引战都有<span style="color:#FFE500;font-size:12px;">攻击倾向</span>，对于某种特定的群体进行AOE伤害。（个人认为恶意引战的“人”不配在B站）<br />
 <br />
 <p>
 	②引战是<strong><span style="color:#60D978;">发表与这一群体对立的言论</span>，<span style="color:#E56600;">引起争吵</span>，甚至<span style="color:#E53333;">演变为谩骂</span><span style="color:#E56600;">（如「傻*」）</span></strong>。<strong>或者，<span style="color:#FFE500;">发表具有争议性的</span>，<span style="color:#337FE5;">容易引起一个群体内部争吵的言论</span></strong>；指有人<strong><span style="color:#E53333;">故意挑起吃瓜群众的跟风或争端</span></strong>的行为。又名<strong><span style="color:#99BB00;">带节奏、煽风点火、搞事情</span></strong>。
