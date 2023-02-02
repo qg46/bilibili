@@ -87,3 +87,6 @@
  
 ![](https://qg46.github.io/bilibili/article/mgid1/4f2d375f78667d42d63a501af6e595f14eb36710.jpg)
 
+<div align="center">
+<h6>引战示例（百度）</h6>
+</div>
