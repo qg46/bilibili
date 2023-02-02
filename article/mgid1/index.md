@@ -13,9 +13,7 @@
             left: 20%;
         }
         
-    img{
-        width: 100%;
-    }
+    
 </style>
 </head>
 
