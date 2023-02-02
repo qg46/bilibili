@@ -40,6 +40,9 @@ _________________
 
 _________________
 
+[静态]()
+[PDF]()
+[png]()<br>
 [个人主页](https://space.bilibili.com/612321692)
 
  <div id="gitalk-container"></div> 
