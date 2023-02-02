@@ -40,9 +40,9 @@ _________________
 
 _________________
 
-[静态 &]()
-[PDF &]()
-[png]()<br>
+[静态 &](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-6.mhtml)
+[PDF &](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-7.mhtml)
+[png](https://qg46.github.io/bilibili/waterjudge/2/15N{R{_[K`L_2Q@17GF}VOM.png)<br>
 [个人主页](https://space.bilibili.com/612321692)
 
  <div id="gitalk-container"></div> 
