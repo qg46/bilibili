@@ -72,3 +72,15 @@
 	②引战是<strong><span style="color:#60D978;">发表与这一群体对立的言论</span>，<span style="color:#E56600;">引起争吵</span>，甚至<span style="color:#E53333;">演变为谩骂</span><span style="color:#E56600;">（如「傻*」）</span></strong>。<strong>或者，<span style="color:#FFE500;">发表具有争议性的</span>，<span style="color:#337FE5;">容易引起一个群体内部争吵的言论</span></strong>；指有人<strong><span style="color:#E53333;">故意挑起吃瓜群众的跟风或争端</span></strong>的行为。又名<strong><span style="color:#99BB00;">带节奏、煽风点火、搞事情</span></strong>。
 </p>
 ③引战的<span style="color:#60D978;">适用范围</span>：<span style="color:#FFE500;">公开<span style="font-size:10px;"></span>对外展示</span>的<span style="color:#337FE5;">信息渠道</span>，包括但不限于：<span style="color:#FF9900;">评论、弹幕、稿件、观点等。</span><br />
+
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/qg46/bilibili/main/_res/db75225feabec8d8b64ee7d3c7165cd639554cbc.png"><br>
+<strong><font size="6" >二、起因</font></strong><br>
+</div>
+
+
+①引战，顾名思义，就是<span style="color:#FF9900;">牵引各路<s>好汉</s>水友对他人或别的群体人身攻击。</span><span style="color:#60D978;">意思就是在社交平台上灵活使用军法中的</span><span style="color:#FFE500;">挑拨离间计</span><span style="color:#60D978;">（有点高深了），让各路水友互相掐架。</span><br />
+②引战的起因主要是<span style="color:#FF9900;">“饭圈”粉丝互撕谩骂、人身攻击、造谣攻击、人肉搜索、侵犯隐私等行为</span>。（B站还算可以，某音某手还有某吧全是）<br />
+<br />
+<br />
