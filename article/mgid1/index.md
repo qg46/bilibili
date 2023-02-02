@@ -42,7 +42,7 @@
  
  <span style="font-size:16px;">这是《小黑屋处罚条例》中的</span><strong><span style="color:#E53333;font-size:16px;">原话</span></strong><span style="font-size:16px;">，然而现在很多风纪委员都不了解引战是什么意思，从而误判；我也是即兴创作，就为大家解释一下<span style="color:#00D5FF;">引战的界定</span></span><br>
   
- ![](https://raw.githubusercontent.com/qg46/bilibili/main/_res/71bf2cd56882a2e97f8b3477c9256f8b09f361d3.png)
+ <img src="https://raw.githubusercontent.com/qg46/bilibili/main/_res/71bf2cd56882a2e97f8b3477c9256f8b09f361d3.png" width="100%">
  
 <div align="center">
 <strong><font size="6">——目     录——</font></strong><br>
