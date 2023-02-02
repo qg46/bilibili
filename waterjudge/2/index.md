@@ -21,6 +21,10 @@
 
 ![](https://qg46.github.io/bilibili/waterjudge/2/8174781babd1aa8c074dd26e6ab18421389127176.jpg "你知道的太多了")
 
+#### <br>
+[动态内图片打包](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-3.zip)<br>
+[个人主页](https://space.bilibili.com/381474147)
+
 _________________
 
 补档：此人在被七天封禁后，注销原有账号并使用另一个和之前名称和头像一模一样的三级号。<br>
@@ -29,10 +33,6 @@ _________________
 
 
 
-
-#### <br>
-[动态内图片打包](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-3.zip)<br>
-[个人主页](https://space.bilibili.com/381474147)
 
  <div id="gitalk-container"></div> 
 <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
