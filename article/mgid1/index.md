@@ -85,8 +85,27 @@
 ②引战的起因主要是<span style="color:#FF9900;">“饭圈”粉丝互撕谩骂、人身攻击、造谣攻击、人肉搜索、侵犯隐私等行为</span>。（B站还算可以，某音某手还有某吧全是）
 </p>
  
-![引战示例（百度）](https://qg46.github.io/bilibili/article/mgid1/4f2d375f78667d42d63a501af6e595f14eb36710.jpg)
+![](https://qg46.github.io/bilibili/article/mgid1/4f2d375f78667d42d63a501af6e595f14eb36710.jpg)
 
 <div align="center">
 <h6>引战示例（百度）</h6>
 </div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/qg46/bilibili/main/_res/db75225feabec8d8b64ee7d3c7165cd639554cbc.png"><br>
+<strong><font size="6" >三、常见情况</font></strong><br>
+</div>
+
+
+<p>
+	1.原神区，常见引战代表词汇例如“op”、“原批”、“原皮”、“叩”等。
+</p>
+<p>
+	2.颠倒黑白，常见于<span style="color:#337FE5;">迷你世界和我的世界双方对立</span>。例如<span style="color:#E53333;">“我的世界抄袭迷你世界”</span>之类的话易引发群体攻击。（B站很少，因为普遍MC）
+</p>
+<p>
+	3.钓鱼，是一‌‌‌‌‌‌‌种<span style="color:#E53333;">故意发布愚蠢言论，吸引其他网友评论攻击的行为</span>。这类就是假借游戏的名义，抛出带有火药味的话语或疑问，看别人出丑。也就是<span style="color:#E53333;">故意引导他人说出错误的话</span>。常见词汇例如“痴子”、“尺子”等同音或谐音。而且范围较为广泛。
+</p>
+<p>
+	4.饭圈粉丝互骂，前面说过，<strong><span style="color:#E53333;font-size:18px;">饭圈文化真可怕</span></strong> 
+</p><br>
