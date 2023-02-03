@@ -85,7 +85,7 @@
 ②引战的起因主要是<span style="color:#FF9900;">“饭圈”粉丝互撕谩骂、人身攻击、造谣攻击、人肉搜索、侵犯隐私等行为</span>。（B站还算可以，某音某手还有某吧全是）
 </p>
  
-![](https://qg46.github.io/bilibili/article/mgid1/4f2d375f78667d42d63a501af6e595f14eb36710.jpg)
+![引战示例（百度）](https://qg46.github.io/bilibili/article/mgid1/4f2d375f78667d42d63a501af6e595f14eb36710.jpg)
 
 <div align="center">
 <h6>引战示例（百度）</h6>
