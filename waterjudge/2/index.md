@@ -51,7 +51,7 @@ _________________
 
 [静态 &](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-8.mhtml)
 [PDF &](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-9.pdf)
-[png](https://qg46.github.io/bilibili/waterjudge/2/(U%60%24LJ%25AY%5B2(%60G~H66FM1%7B2.png)
+[png](https://qg46.github.io/bilibili/waterjudge/2/%28U%60%24LJ%25AY%5B2%28%60G~H66FM1%7B2.png)
 _________________
 
  <div id="gitalk-container"></div> 
