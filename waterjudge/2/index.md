@@ -37,21 +37,20 @@ _________________
 > 批注：<br>
 > ***一回生，二回熟<br>
 > 三回四回领永封<br>***
-
-[静态 &](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-6.mhtml)
-[PDF &](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-7.pdf)
-[png](https://qg46.github.io/bilibili/waterjudge/2/15N{R{_[K`L_2Q@17GF}VOM.png)<br>
-[个人主页](https://space.bilibili.com/612321692)
+> 
+> [静态 &](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-6.mhtml)
+> [PDF &](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-7.pdf)
+> [png](https://qg46.github.io/bilibili/waterjudge/2/15N{R{_[K`L_2Q@17GF}VOM.png)<br>
+> [个人主页](https://space.bilibili.com/612321692)
 
 _________________
 
 后续：其新号在被核实并永久撤职后，又爆出自己曾经新的马甲号并打算继续开脚本外挂投票。<br>
-- 我无语了，究竟是什么力量让他如此坚持
-
-
-[静态 &](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-8.mhtml)
-[PDF &](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-9.pdf)
-[png](https://qg46.github.io/bilibili/waterjudge/2/%28U%60%24LJ%25AY%5B2%28%60G~H66FM1%7B2.png)
+> - 我无语了，究竟是什么力量让他如此坚持
+> 
+> [静态 &](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-8.mhtml)
+> [PDF &](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-9.pdf)
+> [png](https://qg46.github.io/bilibili/waterjudge/2/%28U%60%24LJ%25AY%5B2%28%60G~H66FM1%7B2.png)
 _________________
 
  <div id="gitalk-container"></div> 
