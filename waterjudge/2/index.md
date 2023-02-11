@@ -48,7 +48,7 @@ _________________
 后续：其新号在被核实并永久撤职后，又爆出自己曾经新的马甲号并打算继续开脚本外挂投票。:sweat_smile:<br>
 > - 我无语了，究竟是什么力量让他如此坚持:joy:<br>
 > 评价：这是真的可以，有意思:trollface:
-> - 谢谢，水喝饱了
+> - 谢谢，水喝饱了:sweat_drops:
 > 
 > [静态 &](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-8.mhtml)
 > [PDF &](https://qg46.github.io/bilibili/waterjudge/2/bevid-2-9.pdf)
