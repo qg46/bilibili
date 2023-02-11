@@ -47,9 +47,9 @@ _________________
 
 后续：其新号在被核实并永久撤职后，又爆出自己曾经新的马甲号并打算继续开脚本外挂投票。😅<br>
 > - 我无语了，究竟是什么力量让他如此坚持😂<br>
-> 评价：这是真的可以，有意思
+> 评价：这是真的可以，有意思<img src="https://github.githubassets.com/images/icons/emoji/trollface.png" height="20" width="20" />
 
-<img src="https://github.githubassets.com/images/icons/emoji/trollface.png" height="20" width="20" />
+
 
 > - 谢谢，水喝饱了💦
 > 
