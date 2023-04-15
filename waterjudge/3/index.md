@@ -20,8 +20,7 @@
 来让我们看看如何把他揭发的，事件也由此引起。<br>
 
 
-` 保护哔哩哔哩，消灭间谍 `
-
+` 我已成为风纪委员，保护哔哩哔哩，消灭间谍 `
 
 
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
