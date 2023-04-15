@@ -11,3 +11,5 @@
 [动物：6](https://qg46.github.io/drawingboard/20230416/e9845bef3d6f59f8fbfc1ca02a1b11a2631156541)<br>
 [(指形容自己)](https://qg46.github.io/drawingboard/20230416/f5e5e07303317084e815e16444ebc4d3631156541)<br>
 [我 真 牛](https://qg46.github.io/drawingboard/20230416/a4f5f64f806e8f9db438e2e18b9c4043631156541)
+
+(但是观点区里那几个也不见得都是好人啊)
