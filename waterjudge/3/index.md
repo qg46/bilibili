@@ -57,10 +57,13 @@
 让我们收看他的迷惑言论大赏，请开始你的表演
 
 [31天白当了](https://qg46.github.io/drawingboard/20230413/178539a9d9286e3acdba6f0b4d6dbf3d631156541)<br>
-[哦啊寄，好…好强的…………你还是全杀一遍吧](https://qg46.github.io/drawingboard/20230413/3e53524a8642c1118db21262d7ca8848631156541)<br>
+[哦啊寄，好…好强的………你还是全杀一遍吧](https://qg46.github.io/drawingboard/20230413/3e53524a8642c1118db21262d7ca8848631156541)<br>
 [幸亏没打错电话](https://qg46.github.io/drawingboard/20230413/e1a34f191d22fd1214aa71744a7a56dc631156541)<br>
 [这竟然是最正常的](https://qg46.github.io/drawingboard/20230413/e9ca6299e088e7c76bf978ccc50730fb631156541)
 
+曾经几时，我们也劝过他
+
+[素质有待提高](https://qg46.github.io/drawingboard/20230413/8cc16b3ff35c9c513aee445bd6971103631156541)
 
 <br>
 <br>
