@@ -36,7 +36,7 @@
 
 接下来重点来了，好好看好好学[^3]
 
-[](https://qg46.github.io/drawingboard/20230413/3738d3af12d25db295a120f0981fd0bc631156541)<br>
+[哎，我花生米呢？](https://qg46.github.io/drawingboard/20230413/3738d3af12d25db295a120f0981fd0bc631156541)<br>
 
 从某种意义上来说，你挺勇的
 
