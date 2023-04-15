@@ -8,4 +8,5 @@
 你先别急，让我们先好好吃透这个瓜<br>
 秉着公正严谨的态度呢，我也是成功的找到了他观点区灌水的截图<br>
 
-[你是恨不得把全世界动物都吃了.png](https://qg46.github.io/drawingboard/20230416/e9845bef3d6f59f8fbfc1ca02a1b11a2631156541)
+[动物：6.png](https://qg46.github.io/drawingboard/20230416/e9845bef3d6f59f8fbfc1ca02a1b11a2631156541)<br>
+[(指形容自己).png](https://qg46.github.io/drawingboard/20230416/f5e5e07303317084e815e16444ebc4d3631156541)
