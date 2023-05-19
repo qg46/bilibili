@@ -92,8 +92,9 @@ _________________
 [我宣布，我可以变成纪念号吧](https://qg46.github.io/drawingboard/20230519/94a547f0705bd87925ed8dbdb8200e63631156541.png)
 
 目前，该账号已注销。<br>
-[个人主页]()
+[个人主页](https://space.bilibili.com/702847359)<br>
 
+结束了。
 <br>
 <br>
 注释：
