@@ -102,3 +102,35 @@ _________________
 [^1]: 间谍竟是我自己
 [^2]: 其实不止这一方面
 [^3]: 你们别学
+
+
+ <div id="gitalk-container"></div> 
+<link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
+<script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+<script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+<script>
+    const gitalk = new Gitalk({
+        clientID: '16ed2ca2659f27d17c35',
+        clientSecret: 'c6f6ae62a12d380ff1945f44527295d2505503d3',
+        repo: 'SaveUserComment',
+        owner: 'qg46',
+        admin: ['qg46'],
+        distractionFreeMode: false,
+        id: location.pathname,
+        proxy: 'https://114514-qg46.vercel.app/github/login/oauth/access_token'
+    })
+    gitalk.render('gitalk-container');
+ 
+ window.$docsify = {
+	plugins: [
+		function (hook, vm) {
+			hook.doneEach(function () {
+				if (window.title_id !== window.location.hash.match(/#(.*?)([?]|$)/)[1]) {
+					window.reload;
+				}
+				window.title_id = window.location.hash.match(/#(.*?)([?]|$)/)[1];
+			})
+		}
+	]
+}
+</script>
