@@ -5,4 +5,5 @@
 
 # 想不出写啥
 [濑遇小闪电](https://qg46.github.io/bilibili/waterjudge/1)<br>
-[可怜无助睿](https://qg46.github.io/bilibili/waterjudge/2)
+[可怜无助睿](https://qg46.github.io/bilibili/waterjudge/2)<br>
+[澜咔迪达斯](https://qg46.github.io/bilibili/waterjudge/3)
