@@ -91,7 +91,7 @@ _________________
 [最 后 的 希 望 (60分)](https://qg46.github.io/drawingboard/20230519/6fab6ab3add031ddab835797b6787c01631156541.png)<br>
 [我宣布，我可以变成纪念号吧](https://qg46.github.io/drawingboard/20230519/94a547f0705bd87925ed8dbdb8200e63631156541.png)
 
-目前，该账号已注销。<br>
+目前，该账号已注销<br>
 [个人主页](https://space.bilibili.com/702847359)<br>
 
 结束了。
