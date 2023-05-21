@@ -4,4 +4,4 @@ B站相关存档内容<br>
 
 # 传送门
 [水纪委员存档](https://qg46.github.io/bilibili/waterjudge)<br>
-[实用工具]((https://qg46.github.io/bilibili/tools)
+[实用工具](https://qg46.github.io/bilibili/tools)
