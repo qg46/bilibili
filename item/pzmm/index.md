@@ -50,9 +50,11 @@ TMD你除了骗人以外就不能找点正常工作做做？<br>
 ![R({5$C17PYCH$)O7 3JW (G](https://github.com/qg46/bilibili/assets/78160128/f964913c-9475-40b5-af54-42e6279d08dc)
 ![KL)M4KM8PLES}H4Y3QHKF`A](https://github.com/qg46/bilibili/assets/78160128/8a5086d6-d993-4f6a-a062-dc84bdab99bb)
 
+笑死我，发你电话违规的不就是我们了吗？钓鱼要不要这么钩直饵咸？
 
 # 如果你要说我没有证据？行，
 # 自己去搜 Lovely白羊星龙
 # 别他妈想着我给你指路/挂传送门
 # 因为
 # 你！不！配！！！（破音）
+# He~ tui~
