@@ -1,6 +1,5 @@
 <!--破解图片防盗链-->
-<meta name="referrer" content="no-referrer">
-<a rel="noreferrer" target="_blank"></a>
+<meta name="referrer" content="no-referrer"><a rel="noreferrer" target="_blank"></a>
 
 
 ![](https://i0.hdslb.com/bfs/face/cd7027786846c4a49e4c8046b536ca0f5923cb16.jpg)
