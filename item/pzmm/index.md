@@ -35,6 +35,7 @@ TMD你除了骗人以外就不能找点正常工作做做？<br>
 
 # 别人没有义务因为你没被封就要给你捐钱，能的你，也不看看自己几斤几两？
 
+![](https://qg46.github.io/bilibili/item/pzmm/GT7B7}W_B047HM7AUW9{ZM8.jpg)
 
 
 # 你说我没有证据？行，
