@@ -40,6 +40,10 @@ TMD你除了骗人以外就不能找点正常工作做做？<br>
 我是如此希望你能封号，如此希望……<br>
 淦！
 
+# 删动态好玩咩？
+
+![2RMDSUYL`G3E{7BCJF6II33](https://github.com/qg46/bilibili/assets/78160128/440cf143-99a4-4f9b-9f0d-3158563c2c16)
+
 
 # 你说我没有证据？行，
 # 自己去搜 Lovely白羊星龙
