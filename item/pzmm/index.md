@@ -44,6 +44,11 @@ TMD你除了骗人以外就不能找点正常工作做做？<br>
 
 ![2RMDSUYL`G3E{7BCJF6II33](https://github.com/qg46/bilibili/assets/78160128/440cf143-99a4-4f9b-9f0d-3158563c2c16)
 
+# 讲真，我差点没绷住 
+
+![DS$ V_$(QN3FVU{(KAD~2YA](https://github.com/qg46/bilibili/assets/78160128/759ddec9-6e13-455e-8f5c-50a9655883ba)
+![R({5$C17PYCH$)O7 3JW (G](https://github.com/qg46/bilibili/assets/78160128/f964913c-9475-40b5-af54-42e6279d08dc)
+
 
 # 你说我没有证据？行，
 # 自己去搜 Lovely白羊星龙
