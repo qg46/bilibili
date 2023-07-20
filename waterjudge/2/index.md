@@ -63,8 +63,9 @@ _________________
 > 当前时间：2023/07/20 23:59<br>
 > 令人意想不到，他就这么一心想捣乱吗？那我只好和他奉陪到底喽？
 
-
-
+[稿件卡片页与评论 png](https://qg46.github.io/bilibili/waterjudge/2/]CV2%7DUTRQY%29%7DGO0%60P$TBFZU.png)<br>
+[稿件详情页 page](https://www.bilibili.com/video/BV1rm4y177jx/?spm_id_from=333.999.0.0&vd_source=4cb05483c9801a83ea56fac13822a157)
+[App端稿件缓存 1080P 60FPS]()
 _________________
 
  <div id="gitalk-container"></div> 
