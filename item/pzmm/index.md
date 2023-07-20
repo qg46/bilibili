@@ -35,9 +35,9 @@ TMD你除了骗人以外就不能找点正常工作做做？<br>
 
 # 别人没有义务因为你没被封就要给你捐钱，能的你，也不看看自己几斤几两？
 
-![](https://qg46.github.io/bilibili/item/pzmm/GT7B7%7DW_B047HM7AUW9%7BZM8.jpg)
+![](https://qg46.github.io/bilibili/item/pzmm/GT7B7%7DW_B047HM7AUW9%7BZM8.jpg)<br>
 
-我是如此希望你能封号，如此希望……
+我是如此希望你能封号，如此希望……<br>
 淦！
 
 
