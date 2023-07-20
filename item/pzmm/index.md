@@ -37,6 +37,9 @@ TMD你除了骗人以外就不能找点正常工作做做？<br>
 
 ![](https://qg46.github.io/bilibili/item/pzmm/GT7B7%7DW_B047HM7AUW9%7BZM8.jpg)
 
+我是如此希望你能封号，如此希望……
+淦！
+
 
 # 你说我没有证据？行，
 # 自己去搜 Lovely白羊星龙
