@@ -67,7 +67,7 @@ _________________
 [稿件详情页 page](https://www.bilibili.com/video/BV1rm4y177jx/?spm_id_from=333.999.0.0&vd_source=4cb05483c9801a83ea56fac13822a157)<br>
 [App端稿件缓存 1080P](https://qg46.github.io/bilibili/waterjudge/2/701228698.zip)
 
-他爆料出自己曾经注册的15个马甲号（小强既视感）
+据他爆料，自己曾经注册了15个马甲号（小强既视感）
 
 _________________
 
