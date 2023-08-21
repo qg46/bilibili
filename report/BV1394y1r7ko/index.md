@@ -6,3 +6,44 @@
 所以，让我们开始干活吧。<br>
 
 ![`_$3NPTZCWJ6XGEONF{RZ$7](https://github-production-user-asset-6210df.s3.amazonaws.com/78160128/262060153-3d05f1cc-8bc4-4aa5-9d07-a160ef86ac38.png)
+
+<table>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>2</td>
+      <td>3</td>
+      <td>4</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>34</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+    <col>
+    <col>
+    <col>
+    <col>
+    <col>
+    <col>
+    <col>
+  </colgroup>
+</table>
