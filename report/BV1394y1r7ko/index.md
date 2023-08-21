@@ -7,6 +7,12 @@
 
 ![`_$3NPTZCWJ6XGEONF{RZ$7](https://github-production-user-asset-6210df.s3.amazonaws.com/78160128/262060153-3d05f1cc-8bc4-4aa5-9d07-a160ef86ac38.png)
 
+<thead>
+  <tr>
+    <th>Syntax</th>
+    <th>Description</th>
+  </tr>
+</thead>
 <table>
   <tbody>
     <tr>
