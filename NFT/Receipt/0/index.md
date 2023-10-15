@@ -3,15 +3,16 @@
 名称：某科学的超电磁炮T收藏集出框头像二选一<br>
 拥有方：[奺凝](https://space.bilibili.com/2931523)<br>
 接收方：[请输入内容404](https://space.bilibili.com/524486358)<br>
-问卷已填写：true<br>
-是否自选：true<br>
-问卷选项：1 \[0:御坂美琴，1:白井黑子\]<br>
-是否现货：false<br>
+问卷已填写：<font color="green">true</font><br>
+是否自选：<font color="green">true</font><br>
+问卷选项：<font color="green">1</font> \[0:御坂美琴，1:白井黑子\]<br>
+是否现货：<font color="red">false</font><br>
 
 # 订单信息
 
-是否现款：true<br>
-货到付款：false<br>
+是否现款：<font color="green">true</font><br>
+是否到货：<font color="red">false</font><br>
+货到付款：<font color="red">false</font><br>
 订单金额：800<br>
 <br>
 [交易凭据](https://qg46.github.io/i0/20231015/QQ%E5%9B%BE%E7%89%8720231015222935.jpg)
@@ -30,6 +31,6 @@
 本协定不与《哔哩哔哩数字藏品拥有须知》《高能链用户协议》等规则冲突，并基于此运行<br>
 当整个交易流程完成时，本协定即为失效<br>
 <br>
-是否已失效：false<br>
+是否已失效：<font color="red">false</font><br>
 预计时间：2024-10-25(±12)<br>
-是否已同意：false<br>
+是否已同意：<font color="red">false</font><br>
