@@ -3,7 +3,7 @@
 名称：某科学的超电磁炮T收藏集出框头像二选一<br>
 <font color="purple">拥有</font>方：[奺凝](https://space.bilibili.com/2931523)<br>
 <font color="purple">接收</font>方：[请输入内容404](https://space.bilibili.com/524486358)<br>
-<font color="purple">问卷<font>已填写：<font color="green">true</font><br>
+<font color="purple">问卷</font>已填写：<font color="green">true</font><br>
 是否<font color="purple">自选</font>：<font color="green">true</font><br>
 问卷<font color="purple">选项</font>：<font color="green">1</font> \[0:御坂美琴，1:白井黑子\]<br>
 是否<font color="purple">现货</font>：<font color="red">false</font><br>
