@@ -9,6 +9,7 @@
 
 是否现款：true<br>
 是否到货：false<br>
+期货时间：1y<br>
 货到付款：false<br>
 订单金额：40<br>
 
