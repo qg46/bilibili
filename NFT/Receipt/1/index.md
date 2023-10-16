@@ -1,6 +1,6 @@
 # 基本信息
 
-名称：赛博猫猫<br>
+名称：赛博猫猫-蓝色背景-手持窗口<br>
 拥有方：[五笔聪明的老虎大王](https://space.bilibili.com/37473951?spm_id_from=333.999.0.0)<br>
 接收方：[请输入内容404](https://space.bilibili.com/524486358)<br>
 是否现货：true<br>
