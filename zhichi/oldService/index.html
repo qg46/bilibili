@@ -1,9 +1,14 @@
+<script src="https://qg46.github.io/Resources/js/sign.js"></script>
+
+
 <script>
 const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
 
 if (isMobile) {
   console.log('当前在手机端');
+  window.location.replace("./mobile?sign=" + getSign())
 } else {
   console.log('当前在PC端');
+  
 }
 </script>
