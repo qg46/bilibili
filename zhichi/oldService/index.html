@@ -4,12 +4,13 @@
 
 <script>
 const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
-
+var a = "?mid=524486358&sign=" + getSign();
+  
 if (isMobile) {
   console.log('当前在手机端');
-  window.location.replace("./mobile?sign=" + getSign())
+  window.location.replace("./mobile" + a)
 } else {
   console.log('当前在PC端');
-  window.location.replace("./pc?sign=" + getSign())
+  window.location.replace("./pc" + a)
 }
 </script>
