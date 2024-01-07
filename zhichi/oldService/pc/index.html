@@ -5,6 +5,7 @@ Http.open("GET", url);
 Http.send();
 
 Http.onreadystatechange = (e) => {
-  console.log(Http.responseText)
+  //console.log(Http.responseText)
+    document.write(Http.responseText);
 }      
 </script>
