@@ -4,7 +4,7 @@
 此页面将带你唤起旧版哔哩哔哩所使用的智齿客服页面<br>
 <br>
 <span style="color:red">注意：请不要泛滥本接口或页面地址，否则大量流量可能导致B站直接关停隐藏的相关服务，且行且珍惜！</span><br>
-<span id="time">16</span>秒后跳转到客服界面
+<span id="time">25</span>秒后跳转到客服界面
 <a href = "https://service.bilibili.com/v2/chat/pc/index.html?sysNum=102d1b48515346ec8e9fb543b54ec454"> 等不及了，立即前往>> </a>
 
 <script>
@@ -26,7 +26,7 @@
             //}
         //});
 
-var second=16;
+var second=25;
     var time = document.getElementById("time");
     function show() {
         second--;
