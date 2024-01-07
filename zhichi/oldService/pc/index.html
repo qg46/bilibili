@@ -1,11 +1,20 @@
 <script>
-    const Http = new XMLHttpRequest();
-const url='https://service.bilibili.com/v2/chat/h5/index.html?sysNum=102d1b48515346ec8e9fb543b54ec454';
-Http.open("GET", url);
-Http.send();
+    //const Http = new XMLHttpRequest();
+//const url='https://service.bilibili.com/v2/chat/h5/index.html?sysNum=102d1b48515346ec8e9fb543b54ec454';
+//Http.open("GET", url);
+//Http.send();
 
-Http.onreadystatechange = (e) => {
+//Http.onreadystatechange = (e) => {
   //console.log(Http.responseText)
-    document.write(Http.responseText);
-}      
+    //document.write(Http.responseText);
+//}     
+
+$.ajax({
+            url: "https://service.bilibili.com/v2/chat/pc/index.html?sysNum=102d1b48515346ec8e9fb543b54ec454",
+            method: "GET",
+            success : function(data) { // ajax返回的数据
+                $("#iframe").attr("srcdoc",data);
+            }
+        });
+
 </script>
